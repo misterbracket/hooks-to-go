@@ -12,8 +12,8 @@
 
 ## Components
 
-| Name           | Description                            |
-| -------------- | -------------------------------------- |
-| VisuallyHidden | Add text to icon buttons               |
-| Expire         | Removes a child component from the DOM |
-|                |                                        |
+| Name           | Description                                                                                |
+| -------------- | ------------------------------------------------------------------------------------------ |
+| VisuallyHidden | Add text to icon buttons                                                                   |
+| Expire         | Removes a child component from the DOM                                                     |
+| UltimateButton | The Ultimate Buttton that is super extensible build with type safety and styled-components |
